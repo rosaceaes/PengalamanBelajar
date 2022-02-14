@@ -1,1 +1,4 @@
 Hello, @asterisros!
+This is hello.txt file from the development-branch.
+Good luck for conflict solving when merging!
+Oh btw, use me as the main file!
