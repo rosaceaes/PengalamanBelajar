@@ -1,2 +1,4 @@
 Hello, @asterisros!
-This is a hello.txt from main branch. 
+This is hello.txt file from the development-branch.
+Good luck for conflict solving when merging!
+Oh btw, use me as the main file!
