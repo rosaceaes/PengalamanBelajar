@@ -8,3 +8,5 @@ Line 8-9 was written by rosaceaes.
 --
 This line was added to learn about pull-request from git fork.
 Line 13-14 was written by rosaceaes.
+--
+Line number 12 added.
