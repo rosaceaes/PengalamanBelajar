@@ -2,13 +2,14 @@ Hello, @asterisros!
 This is hello.txt file from the development-branch.
 Good luck for conflict solving when merging!
 Oh btw, use me as the main file!
-
 --
-
 Hello, @rosaceaes!
 Line 8-9 was written by rosaceaes.
-
 --
-
 This line was added to learn about pull-request from git fork.
 Line 13-14 was written by rosaceaes.
+--
+Line 12 added.
+--
+Line 14 added.
+--

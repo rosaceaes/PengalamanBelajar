@@ -27,4 +27,5 @@ Belajar kelas ***Belajar Dasar Git dengan Github*** [Progress 65%]
 - Latihan membuat repository, melakukan commit changes, melakukan fork repository orang lain, dan sebagainya.
 - Belajar tentang perintah dasar Git secara mendalam, misalnya git commit, checkout, reset, dan revert.
 - Belajar tentang Git Branches.
-- Mencoba Kolaborasi dengan orang lain.
+- Mencoba Kolaborasi dengan repository milik orang lain.
+- Mencoba melakukan fork repository.
