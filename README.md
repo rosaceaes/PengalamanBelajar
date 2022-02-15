@@ -19,10 +19,12 @@ Belajar kelas ***Pengenalan ke Logika Pemrograman (Programming Logic 101)*** [Fi
 
 **14 Februari 2022.**
 
-Belajar kelas ***Belajar Dasar Git dengan Github*** [Progress 42%]
+Belajar kelas ***Belajar Dasar Git dengan Github*** [Progress 65%]
 
 - Belajar tentang apa itu Git dan Github.
 - Belajar tentang apa itu git repository, git branch, git fork, git clone, git commit, dan git push.
 - Eksplorasi di Github misalnya GitHub dashboard, mengatur profil, jelajah menu, dan jelajah proyek orang lain.
 - Latihan membuat repository, melakukan commit changes, melakukan fork repository orang lain, dan sebagainya.
 - Belajar tentang perintah dasar Git secara mendalam, misalnya git commit, checkout, reset, dan revert.
+- Belajar tentang Git Branches.
+- Mencoba Kolaborasi dengan orang lain.
